@@ -27,6 +27,9 @@ Aplicación desarrollada en Python que permite gestionar información de países
 - Funciones
 - Estructuras condicionales y repetitivas
 
+## Links del Video
+https://youtu.be/ItjIcYj0HS0
+
 ## Integrantes
 
 - Yael Martin
